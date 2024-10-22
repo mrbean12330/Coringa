@@ -1,0 +1,7 @@
+echo "# Coringa" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/mrbean12330/Coringa.git
+ git push -u origin main
